@@ -1,0 +1,146 @@
+energy
+climate
+data
+data analysis
+machine learning
+electricity markets
+nuclear power
+renewables
+coal
+oil
+shale gas
+wavelet
+crowdsourcing
+analysis
+finance
+markets
+crisis
+bubble
+demand
+supply
+laboratory
+exploration
+research
+power
+programming
+python
+R
+mysql
+database
+vba
+chinese
+english
+slovak
+czech
+spanish
+french
+github
+commodity
+complex systems
+networks
+science
+statistics
+shocks
+risk
+value-at-risk
+profit-at-risk
+financial derivatives
+emir
+reporting
+eu projects
+probability
+econometrics
+investment
+business
+informatics
+telecommunications
+encryption
+cryptography
+digital certificates
+linux
+scripting
+pandas
+numpy
+jupyter
+flask
+html
+css
+independency
+responsibility
+precision
+coding
+estimation
+assumption
+hypothesis
+correlation
+dependence
+price
+quantity
+quality
+power plant
+library
+graph
+edge
+company
+node
+organisation
+behaviour
+heterogeneity
+consultation
+technology
+integration
+sorbonne
+tuke
+emissions
+carbon tax
+environment
+ecology
+agent-based models
+information
+individual
+collective
+non-linear
+study
+scenario
+macroeconomics
+microeconomics
+finance
+banking
+climate change
+carbon
+equilibrium
+sector
+capital
+buyer
+seller
+agent
+household
+stocks
+strategy
+debt
+efficiency
+monopolistic
+business cycle
+seasonality
+simulation
+monte carlo
+computational
+evolution
+policy research
+resource
+software
+centrality
+impact
+innovation
+application
+socio-economic
+mapping
+influence
+theory
+approach
+semantic
+knowledge
+uncertainty
+sustainability
+paradigm
+challenges
