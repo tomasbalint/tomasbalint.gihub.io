@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Tom\xe1\u0161 B\xe1lint, Ph.D.'
 SITENAME = u'Tomáš Bálint'
-SITEURL = 'https://tomasbalint.com'
+SITEURL = 'http://tomasbalint.com'
 
 
 PATH = 'content'
@@ -112,7 +112,7 @@ SITEMAP = {
 # provides the info about social profiles for SEO purposes
 # hardcoded
 SOCIAL_MEDIA_SEARCH_CONNECTION = True
-SOCIAL_LINK = "https://tomasbalint.com"
+SOCIAL_LINK = "http://tomasbalint.com"
 SOCIAL_TWITTER = "https://twitter.com/tomasbalint"
 SOCIAL_GITHUB = "https://github.com/TomasBalint"
 SOCIAL_LINKEDIN = "https://www.linkedin.com/in/tomasbalint"

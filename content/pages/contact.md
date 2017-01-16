@@ -6,7 +6,6 @@ Slug: contact
 Summary:
 Status: published
 &nbsp;
-
 ##### [Université Paris 1 Panthéon-Sorbonne](http://www.univ-paris1.fr/)
 ##### [Centre d'Économie de la Sorbonne](http://centredeconomiesorbonne.univ-paris1.fr)
 ##### [Maison des Sciences Économiques](http://centredeconomiesorbonne.univ-paris1.fr)
@@ -16,6 +15,10 @@ Status: published
 #
 ##### Mail [uni]: [tomas.balint [at] univ-paris1.fr](mailto:tomas.balint@univ-paris1.fr)
 ##### Mail [private]: [tomas [at] tomasbalint.com](mailto:tomas@tomasbalint.com)
+
+&nbsp;
+
+<img src="/images/BALINT_Tomas-vCard.png" alt="BALINT_Tomas-vCard" width="200px" />
 
 &nbsp;
 
