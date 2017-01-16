@@ -6,6 +6,7 @@ AUTHOR = u'Tom\xe1\u0161 B\xe1lint, Ph.D.'
 SITENAME = u'Tomáš Bálint'
 SITEURL = 'http://tomasbalint.com'
 
+MARKUP = ('md', 'ipynb')
 
 PATH = 'content'
 
@@ -92,8 +93,8 @@ MENUITEMS = (
 # GOOGLE ANALYTICS
 GOOGLE_ANALYTICS = 'UA-64046980-3'
 
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS=['sitemap']
+PLUGIN_PATHS = ['pelican-plugins','plugins_other']
+PLUGINS=['sitemap','ipynb.markup']
 
 SITEMAP = {
     'format': 'xml',
