@@ -48,6 +48,14 @@ Status: published
 - [Faculty of Electrical Engineering and Informatics](http://www.fei.tuke.sk/), [Technical University of Košice](http://www.tuke.sk/), Němcovej 32, 040 01, Košice, Slovak Republic
 
 #### Other formation
+03/11/2016 - *[OECD workshop on financing green infrastructure](http://www.oecd.org/cgfi/workshop-financing-green-infrastructure.htm)*
+
+- Paris, France (organised by [OECD Centre on Green Finance and Investment](http://www.oecd.org/cgfi/))
+
+09/06/2015 - 10/06/2015 *Seminar on Climate Risks*
+
+- Paris, France (organised by [SCOR Foundation](https://www.scor.com/en/91-scor-foundation/scor-foundation.html))
+
 18/05/2015 - 22/05/2015: *[Complex networks: theory, methods, and applications](http://ntma.lakecomoschool.org/)*
 
 - Como, Italy (organised by [Lake Como School of Advanced Studies](http://lakecomoschool.org/), Italy)

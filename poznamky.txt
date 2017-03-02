@@ -9,3 +9,28 @@ Dalsia zaujimava tema - ktora by mohla nahradit tu, co som zatial zvolil:
 https://github.com/PurePelicanTheme/pure
 
 http://purepelican.com/
+
+Dobra stranka s prikladom prezentacie portfolia aplikacii je:
+http://deanattali.com/shiny/
+- urobit nieco podobne - novu stranku "Apps" (nie "projekty", to by malo byt nieco vacsie), kde budu cez taketo medailoniky prezentovane rozne veci, co som urobil
+- idealny format by mal byt - nadpis, ilustracny obrazok, strucny popis a pripadne strucna 1 veta o pouzitych technologiach.
+- na uvod stranky dat kratky popis (ze ide o data visualization a ine data apps)
+- dat na stranku:
+  - GHG explorer (shinyapps.simpolproject.eu/ghg-explorer)
+  - EU Electricity Demand (shinyapps.simpolproject.eu/eu-electricity-demand)
+  - mapu elektrarni v europe na zaklade geo kodovanych dat od Platts (na baze sk geocode plants projektu)
+  - link na automatizovane Country Reports, ktore vytvaram v Rku na zaklade dat z PLATTSu (R + knitr)
+  - projekt Mapa OZE, ktory treba dokoncit
+  - projekt MWh reportu pre SLovensko (Python + ReportLab)
+
+- hobby projekty:
+  - mandarinpad ak bude spusteny
+  - slovensku verziu CC-CEDICT (niekde na cinstina.xyz)
+
+- pridat aj cast o "systemovych" projektoch:
+  - crowdsourcing pre SIMPOL na baze PyBossa
+  - CAEKFTUKE - s poznamkou, ze uz na to nemam dosah
+
+note 2017-03-02
+
+Upravit a aktualizovat stranku smerom, ze zavadzanie renewables predstavuje paradigm shift , na ktory sa energeticke spolocnosti musia pripravit (stranded assets, variations in electricity load, ...) Pouzit nejake myslienky z Economistu (Print Edition Feb 25th 2017) Vyzva je prisposobit siete a upravit business modely tradicnych vyrobcov elektriny, ktori su stale velmi centralizovani, resp. zamerani jednym smerom (od obrovskeho vyrobcu k mnoho malym spotrebitelom). Nove siete musia byt skor typu peer-to-peer.
