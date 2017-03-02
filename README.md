@@ -1,3 +1,3 @@
 # README
 
-My web presentation located at [tomasbalint.com](tomasbalint.com)
+My web presentation located at [http://tomasbalint.com](http://tomasbalint.com)
