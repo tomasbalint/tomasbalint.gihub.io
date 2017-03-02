@@ -1,0 +1,19 @@
+- ak zmenim hocico v content adreasari, potom je najcistejsie pozuit prikaz:
+pelican content
+
+na vytvorenie a update suborov v podadresari output/
+
+Potom treba commitnut git. Pozor mas 2 repozitare - jeden je tento adresar s webom a configom a druhy je cisto pre podadresar "output/"
+
+Najprv tu das git commit -a -m "text spravy"
+a potom sa cd do podadresara "output/", kde das:
+
+git commit -a -m "text spravy" a potom este das:
+
+git push origin master aby si to publikoval na githube a aktualizovala sa ti stranka.
+
+Na zistenie aktualneho git stavu:
+git status
+
+
+TB 2017-03-02
