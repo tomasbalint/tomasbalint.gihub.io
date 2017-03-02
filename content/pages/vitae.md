@@ -83,7 +83,7 @@ Status: published
 ### Computer skills
 - Advanced user of Microsoft Windows OS and MS Office suite
 - User and administrator of Linux based OS (administration, shell scripting, server installation and configuration)
-- Advanced User of Mac OS X
+- Advanced user of Mac OS X
 
 #### Data and statistical skills
 - Data analysis in Python with Pandas, NumPy and Jupyter notebooks
