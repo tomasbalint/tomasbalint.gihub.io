@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://tomasbalint.com/</loc>
-<lastmod>2017-03-02T15:03:59-00:00</lastmod>
+<lastmod>2018-01-26T22:02:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://tomasbalint.com/archives.html</loc>
-<lastmod>2017-03-02T15:03:59-00:00</lastmod>
+<lastmod>2018-01-26T22:02:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://tomasbalint.com/tags.html</loc>
-<lastmod>2017-03-02T15:03:59-00:00</lastmod>
+<lastmod>2018-01-26T22:02:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://tomasbalint.com/categories.html</loc>
-<lastmod>2017-03-02T15:03:59-00:00</lastmod>
+<lastmod>2018-01-26T22:02:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
